@@ -12,7 +12,7 @@ int main()
 	for(i=n; i>=1; i--)
 	{
 		f = f * i;
-	}	
+	}
 	
 	cout<<"The factorial of "<<n<<" is "<<f<<endl;
 	
